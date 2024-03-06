@@ -10,3 +10,4 @@ Oh! Another last minute addition to understand git diff
 
 This is to better understand $Git diff
 
+HOw can I skip the staging area? say, $ git commit -a -m 'skipping the staging area' command
